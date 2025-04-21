@@ -1,8 +1,8 @@
-# Elevate_labs
+# Elevate_Labs
 
-# Data Cleaning and Preprocessing Notebook
+## Task-1: Data Cleaning and Preprocessing Notebook
 
-This repository contains a Jupyter Notebook for cleaning and preprocessing a dataset, following best practices in data preparation. The steps include:
+This repository contains Task 1: a Jupyter Notebook dedicated to cleaning and preprocessing a dataset, following best practices in data preparation. The steps include:
 
 1. **Identifying and Handling Missing Values:** Detect and address missing data to ensure dataset quality.
 2. **Removing Duplicate Rows:** Eliminate duplicate records to maintain data integrity.
