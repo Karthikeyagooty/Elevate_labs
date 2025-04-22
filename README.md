@@ -26,3 +26,47 @@ This repository contains Task 1: a Jupyter Notebook dedicated to cleaning and pr
 Install dependencies with:
 ```bash
 pip install pandas
+
+
+# 📊 Task 2: Sales Data Analysis
+
+This task involves analyzing the Superstore sales data using Power BI to uncover business insights from historical order records.
+
+## 📁 Dataset
+
+- **Name:** Sample Superstore Sales Data  
+- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)  
+- **Description:** Includes customer orders with information such as order date, region, category, sub-category, sales, profit, and more.
+
+## 📊 Dashboard Highlights (Built in Power BI)
+
+- **Total Sales:** \$2.30M  
+- **Total Profit:** \$286.40K  
+- **Quantity Sold:** 38K  
+- **Total Orders:** 5K  
+
+### 📈 Key Visualizations:
+
+- **Quarterly Sales by Region**  
+- **Profit by Product Category & Sub-category**  
+- **Top 5 Most Profitable States**
+- **Top 3 Best-Selling Products**
+
+## 🧰 Tools Used
+
+- Power BI Desktop  
+- Excel for preprocessing  
+- Kaggle for dataset hosting
+
+## 📌 Insights
+
+- The Technology category is the most profitable.
+- Some sub-categories like Tables show negative profits.
+- California and New York lead in overall profitability.
+
+## 📬 Author
+
+**Gooty Venkata Karthikeya**  
+📧 gootyvenkatakarthikeya22@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/KarthikeyaGooty) | [GitHub](https://github.com/KarthikeyaGooty)
+
