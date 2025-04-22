@@ -24,7 +24,7 @@ This repository contains Task 1: a Jupyter Notebook dedicated to cleaning and pr
 - pandas
 
 
-# 📊 Task 2: Data Visualization and Storytelling - Sales Data Analysis
+## 📊 Task 2: Data Visualization and Storytelling - Sales Data Analysis
 
 This task involves analyzing the Superstore sales data using Power BI to uncover business insights from historical order records.
 
